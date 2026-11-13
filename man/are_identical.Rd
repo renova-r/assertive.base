@@ -68,5 +68,5 @@ assertive.base::dont_stop(assert_are_identical(c(1, 1), cos(c(0, pi))))
 }
 \seealso{
 \code{\link[base]{identical}}, 
-\code{\link[assertive.properties]{are_same_length}}
+\code{are_same_length} in the assertive.properties package
 }

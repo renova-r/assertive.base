@@ -20,7 +20,7 @@
 #' is easier to work with, and it is recommended that you switch your code to 
 #' it.)
 #' @seealso \code{\link[base]{identical}}, 
-#' \code{\link[assertive.properties]{are_same_length}}
+#' \code{are_same_length} in the assertive.properties package
 #' @examples
 #' x <- 1:5
 #' are_identical(c(1, -1), cos(c(0, pi)))

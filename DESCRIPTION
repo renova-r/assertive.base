@@ -1,8 +1,7 @@
 Package: assertive.base
 Type: Package
 Title: A Lightweight Core of the 'assertive' Package
-Version: 0.0-9
-Date: 2021-02-07
+Version: 0.0.9.9001
 Author: Richard Cotton [aut, cre],
   Sunkyu Choi [trl],
   Ivanka Skakun [trl],
@@ -41,6 +40,7 @@ Description: A minimal set of predicates and assertions used by the assertive
     package.  This is mainly for use by other package developers who want to
     include run-time testing features in their own packages.  End-users will
     usually want to use assertive directly.
+    Compatibility updates by Renova.
 URL: https://bitbucket.org/richierocks/assertive.base
 BugReports: https://bitbucket.org/richierocks/assertive.base/issues
 Depends: R (>= 3.5.0)
